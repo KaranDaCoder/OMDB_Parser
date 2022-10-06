@@ -1,7 +1,8 @@
-const { movieData } = require('./data-set/parsed1');
+const top100Movies = require('./data-set/top250IndianIDs.json');
 const axios = require('axios');
 const fs = require('fs').promises;
 const dotenv = require('dotenv').config();
+const refactorJsonResponse = require('./formatter');
 
 // API : http://www.omdbapi.com/?i=tt3896198&type=movie&plot=long&apikey=e5c767eb
 //API:Plot-full: https://www.omdbapi.com/?i=tt1166100&type=movie&plot=full&apikey=e5c767eb
@@ -9,7 +10,6 @@ const dotenv = require('dotenv').config();
 const API_KEY = process.env.API_KEY || 'createOne';
 
 let parsedBollywood = [];
-let idArr = ['tt3863552', 'tt0242519', 'tt1188996'];
 const formRequestUrl = async (id) => {
   let base_url = 'http://www.omdbapi.com/';
   let request_url = `${base_url}?i=${id}&type=movie&apikey=${API_KEY}&plot=full`;
@@ -69,6 +69,10 @@ const makeGetRequest = async function (requestPayload) {
           imdbID,
           watchAs,
           totalCollection,
+          isPopular100Movies: true,
+          isTop250Movies: false,
+          isTop250IndianMovies: true,
+          isTop250Shows: false,
         };
         return resp;
       }
@@ -82,22 +86,24 @@ const makeGetRequest = async function (requestPayload) {
 };
 
 /* makeGetRequest(
-  'https://www.omdbapi.com/?i=tt1166100&type=movie&plot=full&apikey=e5c767eb'
+  'https://www.omdbapi.com/?i=tt10731256&type=movie&plot=full&apikey=e5c767eb'
 ); */
 
-const fetchImdbIDs = async () => {
-  return movieData.map((movie) => movie.id);
-};
+/* const fetchImdbIDs = async () => {
+  return top100Movies.map((movie) => movie.id);
+}; */
 
 const getResponse = async () => {
-  const imdbIDsArray = await fetchImdbIDs();
-
-  for (let i = 0; i < imdbIDsArray.length; i++) {
-    let request = await formRequestUrl(imdbIDsArray[i]);
+  for (let i = 0; i < top100Movies.length; i++) {
+    let request = await formRequestUrl(top100Movies[i]);
     response = await makeGetRequest(request);
   }
-  let jsonData = JSON.stringify(parsedBollywood);
-  fs.appendFile('bollywood-test.json', jsonData);
+  const key = 'imdbID';
+  const unique = [
+    ...new Map(parsedBollywood.map((movie) => [movie[key], movie])).values(),
+  ];
+  let jsonData = refactorJsonResponse(unique);
+  fs.appendFile('IndianMoviesTop250.json', jsonData);
 };
 
 getResponse();
