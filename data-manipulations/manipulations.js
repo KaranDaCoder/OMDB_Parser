@@ -16,11 +16,28 @@ const filterByIndustryLanguageAndGenre = (dataArr, lang, genre) => {
   });
 };
 
-const filterMovieBollyComedy = filterByIndustryLanguageAndGenre(
+const filterByLanguageAndGenreRefactored = (data, industry, genre) => {
+  return data.filter((movie) => {
+    if (
+      movie.language.length > 0 &&
+      (movie.language[0] === industry || movie.language[1] === industry) &&
+      movie.genres.length > 0 &&
+      movie.genres.includes(genre)
+    ) {
+      return movie;
+    } else {
+      return false;
+    }
+  });
+};
+const filterMovieBollyComedy = filterByLanguageAndGenreRefactored(
   INDIAN,
-  'Bengali',
-  'Drama'
+  'Hindi',
+  'Banana'
 );
 
 console.log(filterMovieBollyComedy.length);
 console.log(JSON.stringify(filterMovieBollyComedy));
+
+//const [movieIndustry, setMovieIndustry] = useState('');
+//const [movieLanguage, setMovieLanguage] = useState('Hindi');
