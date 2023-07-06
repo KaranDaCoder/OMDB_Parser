@@ -1,0 +1,37 @@
+{
+  "editor.fontSize": 12,
+  "files.autoSave": "off",
+  "editor.tabSize": 1,
+  "editor.wordWrap": "on",
+  "terminal.integrated.fontSize": 12,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.minimap.enabled": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorBlinking": "expand",
+  "window.zoomLevel": 1,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.associations": {},
+  "editor.cursorSmoothCaretAnimation": true,
+  "workbench.preferredHighContrastColorTheme": "Default Dark+",
+  "[yaml]": {},
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "terminal.integrated.shellArgs.osx": [],
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "editor.linkedEditing": true,
+  "workbench.startupEditor": "none",
+  "security.workspace.trust.untrustedFiles": "open",
+  "vsicons.dontShowNewVersionMessage": true
+}
