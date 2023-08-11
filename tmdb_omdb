@@ -1,3 +1,7 @@
 https://image.tmdb.org/t/p/original/4JOPLgIwDQ1qNI5EHiCF5hPII8Y.jpg -- image (bd and poster)
 Omdb parser : https://api.themoviedb.org/3/movie/tt0134084?api_key=95ac19f6db24be083140c71423cd4b35&append_to_response=images%2Cvideos&language=en-US
 TMDB: http://www.omdbapi.com/?i=tt6710474&plot=full
+
+
+
+https://api.themoviedb.org/3/movie/157336?api_key=95ac19f6db24be083140c71423cd4b35&append_to_response=videos,images,credits,keywords
