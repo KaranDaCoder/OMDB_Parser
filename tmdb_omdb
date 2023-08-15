@@ -17,3 +17,75 @@ tt0169102
     </div>
   </div>
 </div>
+
+
+
+
+
+<div class="flex h-screen flex-col overflow-x-hidden bg-slate-800 text-slate-100">
+  <!-- Navbar -->
+  <div class="h-16 w-full">
+    <nav class="flex h-full w-full items-center justify-around">
+      <p class="text-lg">Logo</p>
+      <p class="text-lg">Login</p>
+    </nav>
+  </div>
+  <!-- Poster / Backdrop Image + Title -->
+  <div class="relative h-1/2 w-full">
+    <div class="h-full w-full md:hidden">
+      <img src="https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" alt="a" class="h-full w-full mix-blend-lighten brightness-50 md:hidden" />
+    </div>
+    <div class="md:h-full md:w-full">
+      <img src="https://image.tmdb.org/t/p/original/b3yyWxAopoCLYEMMtNbMvZkG6f1.jpg" alt="a" class="hidden h-full w-full mix-blend-lighten brightness-50 md:block" />
+    </div>
+
+    <div class="absolute left-4 top-2 flex h-auto w-fit flex-col gap-4 rounded-md border px-4 py-2">
+      <p>IMDb : 9.1</p>
+    </div>
+
+    <div class="absolute bottom-10 flex h-auto w-full flex-col gap-4 px-4">
+      <p class="text-4xl font-bold tracking-wider">Interstellar</p>
+      <button class="w-fit rounded border px-4 py-2">Icon Favorite</button>
+    </div>
+  </div>
+
+  <!-- Review -->
+  <div class="flex h-auto w-full flex-col gap-3 p-4 md:flex-row">
+    <div class="md:w-1/2">
+      <!-- <p class="text-base font-bold">Plot</p> -->
+      <p class="text-lg font-semibold">The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.</p>
+      <div class="my-2 flex flex-wrap gap-2">
+        <p class="w-fit rounded-md px-3 py-1 font-light ring-1 ring-fuchsia-800">Action</p>
+        <p class="w-fit rounded-md px-3 py-1 font-light ring-1 ring-fuchsia-800">Adventure</p>
+        <p class="w-fit rounded-md px-3 py-1 font-light ring-1 ring-fuchsia-800">Sci-Fi</p>
+        <p class="w-fit rounded-md px-3 py-1 font-light ring-1 ring-fuchsia-800">Thriller</p>
+      </div>
+    </div>
+    <div class="md:w-1/2">
+      <p class="mb-2 text-center text-base"><span class="text-base font-bold">Duration: </span> 2h 14 min</p>
+      <p class="mb-2 text-center text-base"><span class="text-base font-bold">Released: </span> 2014-11-05</p>
+    </div>
+  </div>
+
+  <div class="flex w-screen flex-col md:flex-row md:justify-between">
+    <p class="text-lg font-bold">Cast</p>
+    <div class="flex overflow-x-auto">
+      <div class="flex-none px-3 py-6 first:pl-10 last:pr-10">
+        <div class="flex flex-col items-center justify-start gap-2 rounded-md shadow-2xl">
+          <img class="w-32 rounded-full lg:w-40" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
+          <strong class="text-lg font-medium text-slate-200">Andrew</strong>
+        </div>
+      </div>
+      <div class="flex-none px-3 py-6 first:pl-10 last:pr-10">
+        <div class="flex flex-col items-center justify-start gap-2 rounded-md shadow-2xl">
+          <img class="w-32 rounded-full lg:w-40" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
+          <strong class="text-lg font-medium text-slate-200">Andrew</strong>
+        </div>
+      </div>
+    </div>
+    <div class="flex overflow-x-auto">
+      <div class=""><iframe src="https://www.youtube.com/embed/KlyknsTJk0w"</div>
+    </div>
+  </div>
+</div>
+
