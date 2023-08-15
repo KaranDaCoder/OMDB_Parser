@@ -6,3 +6,14 @@ TMDB: http://www.omdbapi.com/?i=tt6710474&plot=full
 
 https://api.themoviedb.org/3/movie/157336?api_key=95ac19f6db24be083140c71423cd4b35&append_to_response=videos,images,credits,keywords
 tt0169102
+
+<div class="w-screen bg-slate-800 text-slate-200">
+  <div class="flex overflow-x-auto">
+    <div class="flex-none px-3 py-6 first:pl-10 last:pr-10">
+      <div class="flex flex-col items-center justify-center gap-2">
+        <img class="w-32 rounded-full lg:w-48" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
+        <strong class="text-lg font-medium text-slate-200">Andrew</strong>
+      </div>
+    </div>
+  </div>
+</div>
