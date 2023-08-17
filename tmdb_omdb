@@ -1,4 +1,4 @@
-https://image.tmdb.org/t/p/original/4JOPLgIwDQ1qNI5EHiCF5hPII8Y.jpg -- image (bd and poster)
+https://image.tmdb.org/t/p/original/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg -- image (bd and poster)
 Omdb parser : https://api.themoviedb.org/3/movie/tt0134084?api_key=95ac19f6db24be083140c71423cd4b35&append_to_response=images%2Cvideos&language=en-US
 TMDB: http://www.omdbapi.com/?i=tt6710474&plot=full
 
@@ -89,3 +89,74 @@ tt0169102
   </div>
 </div>
 
+============08-17=========
+<div class="h-screen w-screen overflow-x-hidden bg-slate-900 text-slate-100 antialiased">
+  <div class="container mx-auto flex min-h-screen w-full flex-col">
+    <nav class="sticky top-0 z-10 flex h-20 w-full items-center justify-between bg-slate-900">
+      <div>
+        <span> Logo </span>
+      </div>
+      <div class="hidden md:block">
+        <span> Home </span>
+        <span> Favorites </span>
+        <span> Watched </span>
+      </div>
+    </nav>
+    <div class="relative flex h-full w-full items-center lg:h-3/4 lg:w-full">
+      <div class="h-full w-full bg-orange-900 md:rounded-2xl">
+        <img src="https://image.tmdb.org/t/p/original/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg" alt="bd-image" class="lg:brightness-25 h-full w-full object-contain object-center md:rounded-2xl lg:mix-blend-darken" />
+      </div>
+      <div class="top-0 hidden h-full w-full items-center justify-center space-x-5 lg:absolute lg:flex">
+        <div class="h-3/4 w-1/4">
+          <img src="https://image.tmdb.org/t/p/original/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg" class="h-full w-full rounded-xl object-cover object-top" alt="" />
+        </div>
+        <div class="flex h-3/4 w-3/5 flex-col space-y-2 md:space-y-4">
+          <h2 class="text-4xl font-bold tracking-wide">Guardians of the Galaxy Vol. 3</h2>
+          <p class="text-xl font-light italic tracking-wide text-slate-300">Once more with feeling.</p>
+          <div class="flex w-full flex-wrap gap-2">
+            <span class="text-base font-light text-slate-50">PG-13 |</span>
+            <span class="text-base font-semibold text-slate-50">Action</span>
+            <span class="text-base font-semibold text-slate-50">Adventure</span>
+            <span class="text-base font-semibold text-slate-50">Sci-fi</span>
+            <span class="text-base font-semibold text-slate-50">| 01-01-2023</span>
+            <span class="text-base font-semibold text-slate-50">| 2hr 40 min</span>
+          </div>
+          <h2 class="text-sm font-semibold md:text-xl">Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.</h2>
+        </div>
+      </div>
+    </div>
+    <div class="mt-2 flex h-screen w-full flex-col flex-wrap border p-3 lg:mt-8">
+      <div class="flex h-auto w-full flex-col gap-2 bg-slate-900 shadow-2xl lg:hidden">
+        <h2 class="text-xl font-semibold">Guardians of the Galaxy Vol. 3</h2>
+        <p class="text-sm font-light italic text-slate-500">Once more with feeling.</p>
+        <div class="flex flex-wrap gap-1">
+          <span class="text-xs font-semibold text-slate-500 md:flex md:text-sm">PG-13 |</span>
+          <span class="text-xs font-semibold text-slate-500 md:text-sm">Genre1</span>
+          <span class="text-xs font-semibold text-slate-500 md:text-sm">Genre2</span>
+          <span class="text-xs font-semibold text-slate-500 md:text-sm">Genre3</span>
+          <span class="text-xs font-semibold text-slate-500 md:text-sm">| 01-01-2023</span>
+          <span class="text-xs font-semibold text-slate-500 md:text-sm">| 2hr 40 min</span>
+        </div>
+        <h2 class="text-sm font-light md:text-base">Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.</h2>
+      </div>
+      <div class="mt-1 w-full bg-slate-900 text-slate-200">
+        <h2 class="mt-2 text-lg font-bold">Cast & Crew ></h2>
+        <div class="flex gap-2 overflow-x-auto">
+          <div class="flex-none py-1 first:pl-2 last:pr-2">
+            <div class="flex flex-col items-center justify-start gap-2">
+              <img class="w-28 rounded-md object-cover object-center lg:w-44" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
+              <strong class="flex w-32 flex-wrap justify-center text-lg font-medium text-slate-100">Bansi bhaiyya</strong>
+            </div>
+          </div>
+          <div class="flex-none py-1 first:pl-2 last:pr-2">
+            <div class="flex flex-col items-center justify-start gap-2">
+              <img class="w-32 rounded-md lg:w-48" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
+              <strong class="flex w-32 flex-wrap justify-center text-lg font-medium text-slate-100">Bansi bhaiyya</strong>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>Images</div>
+    </div>
+  </div>
+</div>
