@@ -1,0 +1,223 @@
+[
+  {
+    "tx_name":"Asian Market",
+    "tx_amount" : 6.39,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/25/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Asian Market - Papaya"
+  },
+   {
+    "tx_name":"Poornand Foods",
+    "tx_amount" : 29.20,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/25/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Indian Store - EP. Pani puri masala, pani puries, peas etc."
+  },
+   {
+    "tx_name":"Park MSP",
+    "tx_amount" : 8.00,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/21/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "MSP - Airport Parking"
+  },
+   {
+    "tx_name":"Dosa Inc",
+    "tx_amount" : 35.98,
+    "tx_additional_charge": 5.00,
+    "tx_date": "11/21/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Indian Restaurant - Lunch"
+  },
+   {
+    "tx_name":"Costco Wholesale",
+    "tx_amount" : 44.70,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/22/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Costco, EP - Gas Station"
+  },
+   {
+    "tx_name":"Poornand Foods",
+    "tx_amount" : 22.75,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/23/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Indian Store - EP : Khaari, Soup Packets, Tea Strainer, etc."
+  },
+  {
+    "tx_name":"Walmart Supercenter",
+    "tx_amount" : 6.57,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/22/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Banana, Cookies, Skim Milk"
+  },
+  {
+    "tx_name":"Walmart Supercenter",
+    "tx_amount" : 10.85,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/21/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Bread, Milk, Mint, etc."
+  },
+  {
+    "tx_name":"Best Of India",
+    "tx_amount" : 37.61,
+    "tx_additional_charge": 5.00,
+    "tx_date": "11/24/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Chicken Tikka, Chicken Garlic"
+  },
+  {
+    "tx_name":"Best Of India",
+    "tx_amount" : 35.47,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/24/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "To-Go. Chicken Biryani, Chicken 65"
+  },
+  {
+    "tx_name":"Texas Tonka Liquor",
+    "tx_amount" : 39.63,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/24/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Vodka, Smokes, Mixer"
+  },
+  {
+    "tx_name":"AirBnB",
+    "tx_amount" : 468.49,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/24/2023",
+    "tx_type": "Online",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "AirBnB - KeyWest from 12/17 to 12/19"
+  },
+  {
+    "tx_name":"Sun Country Airlines",
+    "tx_amount" : 333.60,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/24/2023",
+    "tx_type": "Online",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Sun Country flight For Florida from 12/17 to 12/25"
+  },
+  {
+    "tx_name":"AMC Movies",
+    "tx_amount" : 32.94,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/25/2023",
+    "tx_type": "Online",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Tiger 3 - Online Movie Tickets"
+  },
+  {
+    "tx_name":"Mochido",
+    "tx_amount" : 21.05,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/25/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "6 Mochido Japanese Donuts + cheese key"
+  },
+  {
+    "tx_name":"Leann Chin",
+    "tx_amount" : 26.11,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/22/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Chicken Plate + Noodle Bowl + Pot Stickers Dinner"
+  },
+  {
+    "tx_name":"Puma",
+    "tx_amount" : 19.98,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/24/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Black Friday : 2 Ts"
+  },
+   {
+    "tx_name":"Columbia",
+    "tx_amount" : 65.54,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/24/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Black Friday : 6 Shorts"
+  },
+  {
+    "tx_name":"Puma",
+    "tx_amount" : 39.98,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/24/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Black Friday : Hoodie + Ts"
+  },
+   {
+    "tx_name":"Under Armour",
+    "tx_amount" : 54.00,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/24/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Black Friday : Beanie + Shoes"
+  },
+  {
+    "tx_name":"Levi's",
+    "tx_amount" : 14.75,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/24/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Black Friday : T-Shirt"
+  },
+   {
+    "tx_name":"Gap Outlet",
+    "tx_amount" : 37.99,
+    "tx_additional_charge": 0.00,
+    "tx_date": "11/24/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Black Friday : T-Shirts"
+  }
+  ]
+  
