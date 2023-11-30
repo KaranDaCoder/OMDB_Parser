@@ -258,5 +258,35 @@
     "tx_card_used": "Cap One Ending 3340",
     "tx_is_pending": false,
     "tx_description": "Akaso Action Camera + memory stick"
+  },
+  {
+    "tx_name": "Godavari - Indian Restaurant ",
+    "tx_amount": 49.92,
+    "tx_additional_charge": 0,
+    "tx_date": "11/29/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Chicken Lollypop, noodles etc."
+  },
+  {
+    "tx_name": "AirBnB - Miami",
+    "tx_amount": 690.25,
+    "tx_additional_charge": 0,
+    "tx_date": "11/29/2023",
+    "tx_type": "Online",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "527 NW 40th St, Miami, FL 33127, USA"
+  },
+  {
+    "tx_name": "Capital One Travel",
+    "tx_amount": 178.88,
+    "tx_additional_charge": 0,
+    "tx_date": "11/28/2023",
+    "tx_type": "Online",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Rental Car in Florida b/w 12/17 and 12/25"
   }
 ]
