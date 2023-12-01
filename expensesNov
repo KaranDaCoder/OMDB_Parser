@@ -288,5 +288,25 @@
     "tx_card_used": "Cap One Ending 3340",
     "tx_is_pending": false,
     "tx_description": "Rental Car in Florida b/w 12/17 and 12/25"
+  },
+  {
+    "tx_name": "Dominos",
+    "tx_amount": 30.90,
+    "tx_additional_charge": 0,
+    "tx_date": "11/30/2023",
+    "tx_type": "Online",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Large Pizza, Med. Veggie Sandwich, Habanero Wings"
+  },
+  {
+    "tx_name": "Walmart Supercenter",
+    "tx_amount": 4.23,
+    "tx_additional_charge": 0,
+    "tx_date": "11/30/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Whole Milk and Coke"
   }
 ]
