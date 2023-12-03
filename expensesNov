@@ -308,5 +308,45 @@
     "tx_card_used": "Cap One Ending 3340",
     "tx_is_pending": false,
     "tx_description": "Whole Milk and Coke"
+  },
+  {
+    "tx_name": "Eden Prairie Liquor",
+    "tx_amount": 18.86,
+    "tx_additional_charge": 0,
+    "tx_date": "12/01/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Smirnoff Green Apple - 750ml"
+  },
+  {
+    "tx_name": "Godavari - Indian Restaurant",
+    "tx_amount": 34.73,
+    "tx_additional_charge": 0,
+    "tx_date": "12/01/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Chicken Manchurian and 777 - Pick Up"
+  },
+   {
+    "tx_name": "India Market",
+    "tx_amount": 14.64,
+    "tx_additional_charge": 0,
+    "tx_date": "12/01/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Green Chillies and Bhungra*2"
+  },
+   {
+    "tx_name": "Dosa Inc.",
+    "tx_amount": 22.00,
+    "tx_additional_charge": 0,
+    "tx_date": "12/02/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Masala Idly and Sambhar Vada"
   }
 ]
