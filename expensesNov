@@ -348,5 +348,35 @@
     "tx_card_used": "Cap One Ending 3340",
     "tx_is_pending": false,
     "tx_description": "Masala Idly and Sambhar Vada"
+  },
+  {
+    "tx_name": "Naf Naf Grill",
+    "tx_amount": 26.12,
+    "tx_additional_charge": 0,
+    "tx_date": "12/03/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "BYOB abd Chick. Shwarma Pita"
+  },
+  {
+    "tx_name": "Naf Naf Grill",
+    "tx_amount": 14.05,
+    "tx_additional_charge": 0,
+    "tx_date": "12/03/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Falafel Bowl & Spicy Hummus"
+  },
+   {
+    "tx_name": "Walmart Supercenter",
+    "tx_amount": 42.34,
+    "tx_additional_charge": 0,
+    "tx_date": "12/03/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Asparagus, Fruits, Salad Kit, Hand Soap"
   }
 ]
