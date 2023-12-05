@@ -291,7 +291,7 @@
   },
   {
     "tx_name": "Dominos",
-    "tx_amount": 30.90,
+    "tx_amount": 30.9,
     "tx_additional_charge": 0,
     "tx_date": "11/30/2023",
     "tx_type": "Online",
@@ -329,7 +329,7 @@
     "tx_is_pending": false,
     "tx_description": "Chicken Manchurian and 777 - Pick Up"
   },
-   {
+  {
     "tx_name": "India Market",
     "tx_amount": 14.64,
     "tx_additional_charge": 0,
@@ -339,9 +339,9 @@
     "tx_is_pending": false,
     "tx_description": "Green Chillies and Bhungra*2"
   },
-   {
+  {
     "tx_name": "Dosa Inc.",
-    "tx_amount": 22.00,
+    "tx_amount": 22,
     "tx_additional_charge": 0,
     "tx_date": "12/02/2023",
     "tx_type": "In Store",
@@ -369,7 +369,7 @@
     "tx_is_pending": false,
     "tx_description": "Falafel Bowl & Spicy Hummus"
   },
-   {
+  {
     "tx_name": "Walmart Supercenter",
     "tx_amount": 42.34,
     "tx_additional_charge": 0,
