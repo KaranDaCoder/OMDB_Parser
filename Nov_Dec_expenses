@@ -295,7 +295,7 @@
     "tx_additional_charge": 0,
     "tx_date": "11/30/2023",
     "tx_type": "Online",
-    "tx_card_used": "Cap One Ending 3340",
+    "tx_card_used": "Apple Card Ending 3735",
     "tx_is_pending": false,
     "tx_description": "Large Pizza, Med. Veggie Sandwich, Habanero Wings"
   },
@@ -465,7 +465,7 @@
     "tx_additional_charge": 0,
     "tx_date": "12/09/2023",
     "tx_type": "In Store",
-    "tx_card_used": "Cap One Ending 3340",
+    "tx_card_used": "Apple Card Ending 3735",
     "tx_is_pending": false,
     "tx_description": "Whole Milk"
   },
@@ -508,5 +508,45 @@
     "tx_card_used": "Cap One Ending 3340",
     "tx_is_pending": false,
     "tx_description": "Hawain Shirts for Karan "
+  },
+   {
+    "tx_name": "AMC Movies",
+    "tx_amount": 52.48,
+    "tx_additional_charge": 0,
+    "tx_date": "12/09/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Apple Card Ending 3735",
+    "tx_is_pending": false,
+    "tx_description": "Swapnil, Karan & Shraddha - Animal - Online Tickets "
+  },
+  {
+    "tx_name": "Dominos Pizza",
+    "tx_amount": 28.17,
+    "tx_additional_charge": 0,
+    "tx_date": "12/09/2023",
+    "tx_type": "Online",
+    "tx_card_used": "Apple Card Ending 3735",
+    "tx_is_pending": false,
+    "tx_description": "LG Thin Pizz (Half n Half), 8-Piece Habanero Wings, Coke*2"
+  },
+  {
+    "tx_name": "Valvoline Oil Change",
+    "tx_amount": 27.50,
+    "tx_additional_charge": 0,
+    "tx_date": "12/10/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Periodic Oil Change for Mazda"
+  },
+  {
+    "tx_name": "Taza Mediterranean",
+    "tx_amount": 27.75,
+    "tx_additional_charge": 0,
+    "tx_date": "12/10/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Chicken and Falafel Bowl"
   }
 ]
