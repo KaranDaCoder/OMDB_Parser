@@ -2,7 +2,6 @@
   {
     "tx_name": "Asian Market",
     "tx_amount": 6.39,
-    "tx_additional_charge": 0,
     "tx_date": "11/25/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -12,7 +11,6 @@
   {
     "tx_name": "Poornand Foods",
     "tx_amount": 29.2,
-    "tx_additional_charge": 0,
     "tx_date": "11/25/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -22,7 +20,6 @@
   {
     "tx_name": "Park MSP",
     "tx_amount": 8,
-    "tx_additional_charge": 0,
     "tx_date": "11/21/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -31,8 +28,7 @@
   },
   {
     "tx_name": "Dosa Inc",
-    "tx_amount": 35.98,
-    "tx_additional_charge": 5,
+    "tx_amount": 40.98,
     "tx_date": "11/21/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -42,7 +38,6 @@
   {
     "tx_name": "Costco Wholesale",
     "tx_amount": 44.7,
-    "tx_additional_charge": 0,
     "tx_date": "11/22/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -52,7 +47,6 @@
   {
     "tx_name": "Poornand Foods",
     "tx_amount": 22.75,
-    "tx_additional_charge": 0,
     "tx_date": "11/23/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -62,7 +56,6 @@
   {
     "tx_name": "Walmart Supercenter",
     "tx_amount": 6.57,
-    "tx_additional_charge": 0,
     "tx_date": "11/22/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -72,7 +65,6 @@
   {
     "tx_name": "Walmart Supercenter",
     "tx_amount": 10.85,
-    "tx_additional_charge": 0,
     "tx_date": "11/21/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -81,8 +73,7 @@
   },
   {
     "tx_name": "Best Of India",
-    "tx_amount": 37.61,
-    "tx_additional_charge": 5,
+    "tx_amount": 42.61,
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -92,7 +83,6 @@
   {
     "tx_name": "Best Of India",
     "tx_amount": 35.47,
-    "tx_additional_charge": 0,
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -102,7 +92,6 @@
   {
     "tx_name": "Texas Tonka Liquor",
     "tx_amount": 39.63,
-    "tx_additional_charge": 0,
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -112,7 +101,6 @@
   {
     "tx_name": "AirBnB",
     "tx_amount": 468.49,
-    "tx_additional_charge": 0,
     "tx_date": "11/24/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
@@ -122,7 +110,6 @@
   {
     "tx_name": "Sun Country Airlines",
     "tx_amount": 333.6,
-    "tx_additional_charge": 0,
     "tx_date": "11/24/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
@@ -132,7 +119,6 @@
   {
     "tx_name": "AMC Movies",
     "tx_amount": 32.94,
-    "tx_additional_charge": 0,
     "tx_date": "11/25/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
@@ -142,7 +128,6 @@
   {
     "tx_name": "Mochido",
     "tx_amount": 21.05,
-    "tx_additional_charge": 0,
     "tx_date": "11/25/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -152,7 +137,6 @@
   {
     "tx_name": "Leann Chin",
     "tx_amount": 26.11,
-    "tx_additional_charge": 0,
     "tx_date": "11/22/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -162,7 +146,6 @@
   {
     "tx_name": "Puma",
     "tx_amount": 19.98,
-    "tx_additional_charge": 0,
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -172,7 +155,6 @@
   {
     "tx_name": "Columbia",
     "tx_amount": 65.54,
-    "tx_additional_charge": 0,
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -182,7 +164,6 @@
   {
     "tx_name": "Puma",
     "tx_amount": 39.98,
-    "tx_additional_charge": 0,
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -192,7 +173,6 @@
   {
     "tx_name": "Under Armour",
     "tx_amount": 54,
-    "tx_additional_charge": 0,
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -202,7 +182,6 @@
   {
     "tx_name": "Levi's",
     "tx_amount": 14.75,
-    "tx_additional_charge": 0,
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -212,7 +191,6 @@
   {
     "tx_name": "Gap Outlet",
     "tx_amount": 37.99,
-    "tx_additional_charge": 0,
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -222,7 +200,6 @@
   {
     "tx_name": "Dominos",
     "tx_amount": 8.13,
-    "tx_additional_charge": 0,
     "tx_date": "11/26/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -232,7 +209,6 @@
   {
     "tx_name": "Walmart",
     "tx_amount": 79.18,
-    "tx_additional_charge": 0,
     "tx_date": "11/27/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -242,7 +218,6 @@
   {
     "tx_name": "Poornanand Foods",
     "tx_amount": 16.49,
-    "tx_additional_charge": 0,
     "tx_date": "11/27/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -252,7 +227,6 @@
   {
     "tx_name": "Amazon",
     "tx_amount": 65.1,
-    "tx_additional_charge": 0,
     "tx_date": "11/27/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
@@ -262,7 +236,6 @@
   {
     "tx_name": "Godavari - Indian Restaurant ",
     "tx_amount": 49.92,
-    "tx_additional_charge": 0,
     "tx_date": "11/29/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -272,7 +245,6 @@
   {
     "tx_name": "AirBnB - Miami",
     "tx_amount": 690.25,
-    "tx_additional_charge": 0,
     "tx_date": "11/29/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
@@ -282,7 +254,6 @@
   {
     "tx_name": "Capital One Travel",
     "tx_amount": 178.88,
-    "tx_additional_charge": 0,
     "tx_date": "11/28/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
@@ -292,7 +263,6 @@
   {
     "tx_name": "Dominos",
     "tx_amount": 30.9,
-    "tx_additional_charge": 0,
     "tx_date": "11/30/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
@@ -302,7 +272,6 @@
   {
     "tx_name": "Walmart Supercenter",
     "tx_amount": 4.23,
-    "tx_additional_charge": 0,
     "tx_date": "11/30/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -312,7 +281,6 @@
   {
     "tx_name": "Eden Prairie Liquor",
     "tx_amount": 18.86,
-    "tx_additional_charge": 0,
     "tx_date": "12/01/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -322,7 +290,6 @@
   {
     "tx_name": "Godavari - Indian Restaurant",
     "tx_amount": 34.73,
-    "tx_additional_charge": 0,
     "tx_date": "12/01/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -332,7 +299,6 @@
   {
     "tx_name": "India Market",
     "tx_amount": 14.64,
-    "tx_additional_charge": 0,
     "tx_date": "12/01/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -342,7 +308,6 @@
   {
     "tx_name": "Dosa Inc.",
     "tx_amount": 22,
-    "tx_additional_charge": 0,
     "tx_date": "12/02/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -352,7 +317,6 @@
   {
     "tx_name": "Naf Naf Grill",
     "tx_amount": 26.12,
-    "tx_additional_charge": 0,
     "tx_date": "12/03/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -362,7 +326,6 @@
   {
     "tx_name": "Naf Naf Grill",
     "tx_amount": 14.05,
-    "tx_additional_charge": 0,
     "tx_date": "12/03/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -372,16 +335,15 @@
   {
     "tx_name": "Walmart Supercenter",
     "tx_amount": 42.34,
-    "tx_additional_charge": 0,
     "tx_date": "12/03/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
     "tx_is_pending": false,
     "tx_description": "Asparagus, Fruits, Salad Kit, Hand Soap"
-  },{
+  },
+  {
     "tx_name": "Poornanand Foods",
     "tx_amount": 41.43,
-    "tx_additional_charge": 0,
     "tx_date": "12/05/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -391,7 +353,6 @@
   {
     "tx_name": "India Market",
     "tx_amount": 18.08,
-    "tx_additional_charge": 0,
     "tx_date": "12/06/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -401,7 +362,6 @@
   {
     "tx_name": "India Market - Dine In",
     "tx_amount": 17.34,
-    "tx_additional_charge": 0,
     "tx_date": "12/06/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -411,7 +371,6 @@
   {
     "tx_name": "Eden Tobacco & Vape",
     "tx_amount": 32.55,
-    "tx_additional_charge": 0,
     "tx_date": "12/06/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -421,7 +380,6 @@
   {
     "tx_name": "Taco Bell",
     "tx_amount": 24.35,
-    "tx_additional_charge": 0,
     "tx_date": "12/08/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -431,7 +389,6 @@
   {
     "tx_name": "Great Clips",
     "tx_amount": 55,
-    "tx_additional_charge": 0,
     "tx_date": "12/10/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -441,7 +398,6 @@
   {
     "tx_name": "Eden Prairie - Food & Fuel",
     "tx_amount": 5.99,
-    "tx_additional_charge": 0,
     "tx_date": "12/09/2023",
     "tx_type": "In Store",
     "tx_card_used": "Apple Card Ending 3735",
@@ -451,7 +407,6 @@
   {
     "tx_name": "Eden Prairie - Food & Fuel",
     "tx_amount": 10,
-    "tx_additional_charge": 0,
     "tx_date": "12/09/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -461,7 +416,6 @@
   {
     "tx_name": "Noodles & Company",
     "tx_amount": 29.36,
-    "tx_additional_charge": 0,
     "tx_date": "12/09/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -471,7 +425,6 @@
   {
     "tx_name": "Tommy Hilfiger",
     "tx_amount": 104.61,
-    "tx_additional_charge": 0,
     "tx_date": "12/09/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -481,7 +434,6 @@
   {
     "tx_name": "Express Factory",
     "tx_amount": 49.94,
-    "tx_additional_charge": 0,
     "tx_date": "12/09/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -491,7 +443,6 @@
   {
     "tx_name": "AMC Movies",
     "tx_amount": 52.48,
-    "tx_additional_charge": 0,
     "tx_date": "12/09/2023",
     "tx_type": "In Store",
     "tx_card_used": "Apple Card Ending 3735",
@@ -501,7 +452,6 @@
   {
     "tx_name": "Dominos Pizza",
     "tx_amount": 28.17,
-    "tx_additional_charge": 0,
     "tx_date": "12/09/2023",
     "tx_type": "Online",
     "tx_card_used": "Apple Card Ending 3735",
@@ -511,7 +461,6 @@
   {
     "tx_name": "Valvoline Oil Change",
     "tx_amount": 27.5,
-    "tx_additional_charge": 0,
     "tx_date": "12/10/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -521,17 +470,15 @@
   {
     "tx_name": "Taza Mediterranean",
     "tx_amount": 27.75,
-    "tx_additional_charge": 0,
     "tx_date": "12/10/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
     "tx_is_pending": false,
     "tx_description": "Chicken and Falafel Bowl"
   },
-   {
+  {
     "tx_name": "ALDI",
     "tx_amount": 13.59,
-    "tx_additional_charge": 0,
     "tx_date": "12/11/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -541,7 +488,6 @@
   {
     "tx_name": "Eden Prairie - Food & Fuel",
     "tx_amount": 10.06,
-    "tx_additional_charge": 0,
     "tx_date": "12/11/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
@@ -551,7 +497,6 @@
   {
     "tx_name": "Poornanand Foods",
     "tx_amount": 10.59,
-    "tx_additional_charge": 0,
     "tx_date": "12/11/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
