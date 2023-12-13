@@ -378,5 +378,184 @@
     "tx_card_used": "Cap One Ending 3340",
     "tx_is_pending": false,
     "tx_description": "Asparagus, Fruits, Salad Kit, Hand Soap"
+  },{
+    "tx_name": "Poornanand Foods",
+    "tx_amount": 41.43,
+    "tx_additional_charge": 0,
+    "tx_date": "12/05/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Curry Leaves, Cilantro, Phulkas, Ghee, GGP, Dahi, etc."
+  },
+  {
+    "tx_name": "India Market",
+    "tx_amount": 18.08,
+    "tx_additional_charge": 0,
+    "tx_date": "12/06/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Onions, ParleG, Dettol, ENO"
+  },
+  {
+    "tx_name": "India Market - Dine In",
+    "tx_amount": 17.34,
+    "tx_additional_charge": 0,
+    "tx_date": "12/06/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Motichoor Ladoo, Samosa and Punugulu"
+  },
+  {
+    "tx_name": "Eden Tobacco & Vape",
+    "tx_amount": 32.55,
+    "tx_additional_charge": 0,
+    "tx_date": "12/06/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "EJuice - Silver Back - BooBoo"
+  },
+  {
+    "tx_name": "Taco Bell",
+    "tx_amount": 24.35,
+    "tx_additional_charge": 0,
+    "tx_date": "12/08/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Late Night - Nacho Fries, Chicken Chalupa, Spicy Potato Tacos"
+  },
+  {
+    "tx_name": "Great Clips",
+    "tx_amount": 55,
+    "tx_additional_charge": 0,
+    "tx_date": "12/10/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Shraddha & Karan Hair Cuts"
+  },
+  {
+    "tx_name": "Eden Prairie - Food & Fuel",
+    "tx_amount": 5.99,
+    "tx_additional_charge": 0,
+    "tx_date": "12/09/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Apple Card Ending 3735",
+    "tx_is_pending": false,
+    "tx_description": "Whole Milk"
+  },
+  {
+    "tx_name": "Eden Prairie - Food & Fuel",
+    "tx_amount": 10,
+    "tx_additional_charge": 0,
+    "tx_date": "12/09/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "$10 Gas at $2.97/Gallon"
+  },
+  {
+    "tx_name": "Noodles & Company",
+    "tx_amount": 29.36,
+    "tx_additional_charge": 0,
+    "tx_date": "12/09/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Chicken Parmesan, Japanese Pan Noodles, Garlic Cheesy Bread"
+  },
+  {
+    "tx_name": "Tommy Hilfiger",
+    "tx_amount": 104.61,
+    "tx_additional_charge": 0,
+    "tx_date": "12/09/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Jogger, Polo T-shirts, etc for Karan "
+  },
+  {
+    "tx_name": "Express Factory",
+    "tx_amount": 49.94,
+    "tx_additional_charge": 0,
+    "tx_date": "12/09/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Hawain Shirts for Karan "
+  },
+  {
+    "tx_name": "AMC Movies",
+    "tx_amount": 52.48,
+    "tx_additional_charge": 0,
+    "tx_date": "12/09/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Apple Card Ending 3735",
+    "tx_is_pending": false,
+    "tx_description": "Swapnil, Karan & Shraddha - Animal - Online Tickets "
+  },
+  {
+    "tx_name": "Dominos Pizza",
+    "tx_amount": 28.17,
+    "tx_additional_charge": 0,
+    "tx_date": "12/09/2023",
+    "tx_type": "Online",
+    "tx_card_used": "Apple Card Ending 3735",
+    "tx_is_pending": false,
+    "tx_description": "LG Thin Pizz (Half n Half), 8-Piece Habanero Wings, Coke*2"
+  },
+  {
+    "tx_name": "Valvoline Oil Change",
+    "tx_amount": 27.5,
+    "tx_additional_charge": 0,
+    "tx_date": "12/10/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Periodic Oil Change for Mazda"
+  },
+  {
+    "tx_name": "Taza Mediterranean",
+    "tx_amount": 27.75,
+    "tx_additional_charge": 0,
+    "tx_date": "12/10/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Chicken and Falafel Bowl"
+  },
+   {
+    "tx_name": "ALDI",
+    "tx_amount": 13.59,
+    "tx_additional_charge": 0,
+    "tx_date": "12/11/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Sugar, Potatoes, Green Peppers, Coke, Cauliflower"
+  },
+  {
+    "tx_name": "Eden Prairie - Food & Fuel",
+    "tx_amount": 10.06,
+    "tx_additional_charge": 0,
+    "tx_date": "12/11/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "3.77 Gallons @ 2.97/gallon"
+  },
+  {
+    "tx_name": "Poornanand Foods",
+    "tx_amount": 10.59,
+    "tx_additional_charge": 0,
+    "tx_date": "12/11/2023",
+    "tx_type": "In Store",
+    "tx_card_used": "Cap One Ending 3340",
+    "tx_is_pending": false,
+    "tx_description": "Pao Bhaaji Buns, Paao Bhaaji Masala, Goodday, etc."
   }
 ]
