@@ -6,7 +6,7 @@
     "tx_date": "11/25/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Asian Market - Papaya"
   },
   {
@@ -16,7 +16,7 @@
     "tx_date": "11/25/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Indian Store - EP. Pani puri masala, pani puries, peas etc."
   },
   {
@@ -26,7 +26,7 @@
     "tx_date": "11/21/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "MSP - Airport Parking"
   },
   {
@@ -36,7 +36,7 @@
     "tx_date": "11/21/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Indian Restaurant - Lunch"
   },
   {
@@ -46,7 +46,7 @@
     "tx_date": "11/22/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Costco, EP - Gas Station"
   },
   {
@@ -56,7 +56,7 @@
     "tx_date": "11/23/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Indian Store - EP : Khaari, Soup Packets, Tea Strainer, etc."
   },
   {
@@ -66,7 +66,7 @@
     "tx_date": "11/22/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Banana, Cookies, Skim Milk"
   },
   {
@@ -76,7 +76,7 @@
     "tx_date": "11/21/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Bread, Milk, Mint, etc."
   },
   {
@@ -86,7 +86,7 @@
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Chicken Tikka, Chicken Garlic"
   },
   {
@@ -96,7 +96,7 @@
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "To-Go. Chicken Biryani, Chicken 65"
   },
   {
@@ -106,7 +106,7 @@
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Vodka, Smokes, Mixer"
   },
   {
@@ -116,7 +116,7 @@
     "tx_date": "11/24/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "AirBnB - KeyWest from 12/17 to 12/19"
   },
   {
@@ -126,7 +126,7 @@
     "tx_date": "11/24/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Sun Country flight For Florida from 12/17 to 12/25"
   },
   {
@@ -136,7 +136,7 @@
     "tx_date": "11/25/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Tiger 3 - Online Movie Tickets"
   },
   {
@@ -146,7 +146,7 @@
     "tx_date": "11/25/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "6 Mochido Japanese Donuts + cheese key"
   },
   {
@@ -156,7 +156,7 @@
     "tx_date": "11/22/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Chicken Plate + Noodle Bowl + Pot Stickers Dinner"
   },
   {
@@ -166,7 +166,7 @@
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Black Friday : 2 Ts"
   },
   {
@@ -176,7 +176,7 @@
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Black Friday : 6 Shorts"
   },
   {
@@ -186,7 +186,7 @@
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Black Friday : Hoodie + Ts"
   },
   {
@@ -196,7 +196,7 @@
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Black Friday : Beanie + Shoes"
   },
   {
@@ -206,7 +206,7 @@
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Black Friday : T-Shirt"
   },
   {
@@ -216,7 +216,7 @@
     "tx_date": "11/24/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Black Friday : T-Shirts"
   },
   {
@@ -226,7 +226,7 @@
     "tx_date": "11/26/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Choco Lava Cake"
   },
   {
@@ -236,7 +236,7 @@
     "tx_date": "11/27/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Blender, printer cartridges, iron etc."
   },
   {
@@ -246,7 +246,7 @@
     "tx_date": "11/27/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Phulka, Naan, mutter paneer ingredients"
   },
   {
@@ -256,7 +256,7 @@
     "tx_date": "11/27/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Akaso Action Camera + memory stick"
   },
   {
@@ -266,7 +266,7 @@
     "tx_date": "11/29/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Chicken Lollypop, noodles etc."
   },
   {
@@ -276,7 +276,7 @@
     "tx_date": "11/29/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "527 NW 40th St, Miami, FL 33127, USA"
   },
   {
@@ -286,7 +286,7 @@
     "tx_date": "11/28/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Rental Car in Florida b/w 12/17 and 12/25"
   },
   {
@@ -296,7 +296,7 @@
     "tx_date": "11/30/2023",
     "tx_type": "Online",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Large Pizza, Med. Veggie Sandwich, Habanero Wings"
   },
   {
@@ -306,7 +306,7 @@
     "tx_date": "11/30/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Whole Milk and Coke"
   },
   {
@@ -316,7 +316,7 @@
     "tx_date": "12/01/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Smirnoff Green Apple - 750ml"
   },
   {
@@ -326,7 +326,7 @@
     "tx_date": "12/01/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Chicken Manchurian and 777 - Pick Up"
   },
   {
@@ -336,7 +336,7 @@
     "tx_date": "12/01/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Green Chillies and Bhungra*2"
   },
   {
@@ -346,7 +346,7 @@
     "tx_date": "12/02/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Masala Idly and Sambhar Vada"
   },
   {
@@ -356,7 +356,7 @@
     "tx_date": "12/03/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "BYOB abd Chick. Shwarma Pita"
   },
   {
@@ -366,7 +366,7 @@
     "tx_date": "12/03/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Falafel Bowl & Spicy Hummus"
   },
   {
@@ -376,7 +376,7 @@
     "tx_date": "12/03/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Asparagus, Fruits, Salad Kit, Hand Soap"
   },
   {
@@ -386,7 +386,7 @@
     "tx_date": "12/05/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Curry Leaves, Cilantro, Phulkas, Ghee, GGP, Dahi, etc."
   },
   {
@@ -396,7 +396,7 @@
     "tx_date": "12/06/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Onions, ParleG, Dettol, ENO"
   },
   {
@@ -406,7 +406,7 @@
     "tx_date": "12/06/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Motichoor Ladoo, Samosa and Punugulu"
   },
   {
@@ -416,7 +416,7 @@
     "tx_date": "12/06/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "EJuice - Silver Back - BooBoo"
   },
   {
@@ -426,7 +426,7 @@
     "tx_date": "12/08/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Late Night - Nacho Fries, Chicken Chalupa, Spicy Potato Tacos"
   },
   {
@@ -436,7 +436,7 @@
     "tx_date": "12/10/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Shraddha & Karan Hair Cuts"
   },
   {
@@ -446,7 +446,7 @@
     "tx_date": "12/09/2023",
     "tx_type": "In Store",
     "tx_card_used": "Apple Card Ending 3735",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Whole Milk"
   },
   {
@@ -456,7 +456,7 @@
     "tx_date": "12/09/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "$10 Gas at $2.97/Gallon"
   },
   {
@@ -466,7 +466,7 @@
     "tx_date": "12/09/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Chicken Parmesan, Japanese Pan Noodles, Garlic Cheesy Bread"
   },
   {
@@ -476,7 +476,7 @@
     "tx_date": "12/09/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Jogger, Polo T-shirts, etc for Karan "
   },
   {
@@ -486,7 +486,7 @@
     "tx_date": "12/09/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Hawain Shirts for Karan "
   },
   {
@@ -496,7 +496,7 @@
     "tx_date": "12/09/2023",
     "tx_type": "In Store",
     "tx_card_used": "Apple Card Ending 3735",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Swapnil, Karan & Shraddha - Animal - Online Tickets "
   },
   {
@@ -506,7 +506,7 @@
     "tx_date": "12/09/2023",
     "tx_type": "Online",
     "tx_card_used": "Apple Card Ending 3735",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "LG Thin Pizz (Half n Half), 8-Piece Habanero Wings, Coke*2"
   },
   {
@@ -516,7 +516,7 @@
     "tx_date": "12/10/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Periodic Oil Change for Mazda"
   },
   {
@@ -526,7 +526,7 @@
     "tx_date": "12/10/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Chicken and Falafel Bowl"
   },
   {
@@ -536,7 +536,7 @@
     "tx_date": "12/11/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Sugar, Potatoes, Green Peppers, Coke, Cauliflower"
   },
   {
@@ -546,7 +546,7 @@
     "tx_date": "12/11/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "3.77 Gallons @ 2.97/gallon"
   },
   {
@@ -556,7 +556,7 @@
     "tx_date": "12/11/2023",
     "tx_type": "In Store",
     "tx_card_used": "Cap One Ending 3340",
-    "tx_is_pending": false,
+    "tx_status": paid,
     "tx_description": "Pao Bhaaji Buns, Paao Bhaaji Masala, Goodday, etc."
   }
 ]
