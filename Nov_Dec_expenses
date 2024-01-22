@@ -1,562 +1,450 @@
 [
-{
-
-"name": "Asian Market",
-"amount": 6.39,
-"date": "11/25/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Asian Market - Papaya"
-},
-{
-
-"name": "Poornand Foods",
-"amount": 29.2,
-"date": "11/25/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Indian Store - EP. Pani puri masala, pani puries, peas etc."
-},
-{
-
-"name": "Park MSP",
-"amount": 8,
-"date": "11/21/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "MSP - Airport Parking"
-},
-{
-
-"name": "Dosa Inc",
-"amount": 40.98,
-"date": "11/21/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Indian Restaurant - Lunch"
-},
-{
-
-"name": "Costco Wholesale",
-"amount": 44.7,
-"date": "11/22/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Costco, EP - Gas Station"
-},
-{
-
-"name": "Poornand Foods",
-"amount": 22.75,
-"date": "11/23/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Indian Store - EP : Khaari, Soup Packets, Tea Strainer, etc."
-},
-{
-
-"name": "Walmart Supercenter",
-"amount": 6.57,
-"date": "11/22/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Banana, Cookies, Skim Milk"
-},
-{
-
-"name": "Walmart Supercenter",
-"amount": 10.85,
-"date": "11/21/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Bread, Milk, Mint, etc."
-},
-{
-
-"name": "Best Of India",
-"amount": 42.61,
-"date": "11/24/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Chicken Tikka, Chicken Garlic"
-},
-{
-
-"name": "Best Of India",
-"amount": 35.47,
-"date": "11/24/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "To-Go. Chicken Biryani, Chicken 65"
-},
-{
-
-"name": "Texas Tonka Liquor",
-"amount": 39.63,
-"date": "11/24/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Vodka, Smokes, Mixer"
-},
-{
-
-"name": "AirBnB",
-"amount": 468.49,
-"date": "11/24/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "AirBnB - KeyWest from 12/17 to 12/19"
-},
-{
-
-"name": "Sun Country Airlines",
-"amount": 333.6,
-"date": "11/24/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Sun Country flight For Florida from 12/17 to 12/25"
-},
-{
-
-"name": "AMC Movies",
-"amount": 32.94,
-"date": "11/25/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Tiger 3 - Online Movie Tickets"
-},
-{
-
-"name": "Mochido",
-"amount": 21.05,
-"date": "11/25/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "6 Mochido Japanese Donuts + cheese key"
-},
-{
-
-"name": "Leann Chin",
-"amount": 26.11,
-"date": "11/22/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Chicken Plate + Noodle Bowl + Pot Stickers Dinner"
-},
-{
-
-"name": "Puma",
-"amount": 19.98,
-"date": "11/24/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Black Friday : 2 Ts"
-},
-{
-
-"name": "Columbia",
-"amount": 65.54,
-"date": "11/24/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Black Friday : 6 Shorts"
-},
-{
-
-"name": "Puma",
-"amount": 39.98,
-"date": "11/24/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Black Friday : Hoodie + Ts"
-},
-{
-
-"name": "Under Armour",
-"amount": 54,
-"date": "11/24/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Black Friday : Beanie + Shoes"
-},
-{
-
-"name": "Levi's",
-"amount": 14.75,
-"date": "11/24/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Black Friday : T-Shirt"
-},
-{
-
-"name": "Gap Outlet",
-"amount": 37.99,
-"date": "11/24/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Black Friday : T-Shirts"
-},
-{
-
-"name": "Dominos",
-"amount": 8.13,
-"date": "11/26/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Choco Lava Cake"
-},
-{
-
-"name": "Walmart",
-"amount": 79.18,
-"date": "11/27/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Blender, printer cartridges, iron etc."
-},
-{
-
-"name": "Poornanand Foods",
-"amount": 16.49,
-"date": "11/27/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Phulka, Naan, mutter paneer ingredients"
-},
-{
-
-"name": "Amazon",
-"amount": 65.1,
-"date": "11/27/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Akaso Action Camera + memory stick"
-},
-{
-
-"name": "Godavari - Indian Restaurant ",
-"amount": 49.92,
-"date": "11/29/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Chicken Lollypop, noodles etc."
-},
-{
-
-"name": "AirBnB - Miami",
-"amount": 690.25,
-"date": "11/29/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "527 NW 40th St, Miami, FL 33127, USA"
-},
-{
-
-"name": "Capital One Travel",
-"amount": 178.88,
-"date": "11/28/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Rental Car in Florida b/w 12/17 and 12/25"
-},
-{
-
-"name": "Dominos",
-"amount": 30.9,
-"date": "11/30/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Large Pizza, Med. Veggie Sandwich, Habanero Wings"
-},
-{
-
-"name": "Walmart Supercenter",
-"amount": 4.23,
-"date": "11/30/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Whole Milk and Coke"
-},
-{
-
-"name": "Eden Prairie Liquor",
-"amount": 18.86,
-"date": "12/01/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Smirnoff Green Apple - 750ml"
-},
-{
-
-"name": "Godavari - Indian Restaurant",
-"amount": 34.73,
-"date": "12/01/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Chicken Manchurian and 777 - Pick Up"
-},
-{
-
-"name": "India Market",
-"amount": 14.64,
-"date": "12/01/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Green Chillies and Bhungra*2"
-},
-{
-
-"name": "Dosa Inc.",
-"amount": 22,
-"date": "12/02/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Masala Idly and Sambhar Vada"
-},
-{
-
-"name": "Naf Naf Grill",
-"amount": 26.12,
-"date": "12/03/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "BYOB abd Chick. Shwarma Pita"
-},
-{
-
-"name": "Naf Naf Grill",
-"amount": 14.05,
-"date": "12/03/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Falafel Bowl & Spicy Hummus"
-},
-{
-
-"name": "Walmart Supercenter",
-"amount": 42.34,
-"date": "12/03/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Asparagus, Fruits, Salad Kit, Hand Soap"
-},
-{
-
-"name": "Poornanand Foods",
-"amount": 41.43,
-"date": "12/05/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Curry Leaves, Cilantro, Phulkas, Ghee, GGP, Dahi, etc."
-},
-{
-
-"name": "India Market",
-"amount": 18.08,
-"date": "12/06/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Onions, ParleG, Dettol, ENO"
-},
-{
-
-"name": "India Market - Dine In",
-"amount": 17.34,
-"date": "12/06/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Motichoor Ladoo, Samosa and Punugulu"
-},
-{
-
-"name": "Eden Tobacco & Vape",
-"amount": 32.55,
-"date": "12/06/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "EJuice - Silver Back - BooBoo"
-},
-{
-
-"name": "Taco Bell",
-"amount": 24.35,
-"date": "12/08/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Late Night - Nacho Fries, Chicken Chalupa, Spicy Potato Tacos"
-},
-{
-
-"name": "Great Clips",
-"amount": 55,
-"date": "12/10/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Shraddha & Karan Hair Cuts"
-},
-{
-
-"name": "Eden Prairie - Food & Fuel",
-"amount": 5.99,
-"date": "12/09/2023",
-
-"payment_mode": "65ae6797bfd20ab9fb328c41",
-"status": "Completed",
-"desc": "Whole Milk"
-},
-{
-
-"name": "Eden Prairie - Food & Fuel",
-"amount": 10,
-"date": "12/09/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "$10 Gas at $2.97/Gallon"
-},
-{
-
-"name": "Noodles & Company",
-"amount": 29.36,
-"date": "12/09/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Chicken Parmesan, Japanese Pan Noodles, Garlic Cheesy Bread"
-},
-{
-
-"name": "Tommy Hilfiger",
-"amount": 104.61,
-"date": "12/09/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Jogger, Polo T-shirts, etc for Karan "
-},
-{
-
-"name": "Express Factory",
-"amount": 49.94,
-"date": "12/09/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Hawain Shirts for Karan "
-},
-{
-
-"name": "AMC Movies",
-"amount": 52.48,
-"date": "12/09/2023",
-
-"payment_mode": "65ae6797bfd20ab9fb328c41",
-"status": "Completed",
-"desc": "Swapnil, Karan & Shraddha - Animal - Online Tickets "
-},
-{
-
-"name": "Dominos Pizza",
-"amount": 28.17,
-"date": "12/09/2023",
-
-"payment_mode": "65ae6797bfd20ab9fb328c41",
-"status": "Completed",
-"desc": "LG Thin Pizz (Half n Half), 8-Piece Habanero Wings, Coke*2"
-},
-{
-
-"name": "Valvoline Oil Change",
-"amount": 27.5,
-"date": "12/10/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Periodic Oil Change for Mazda"
-},
-{
-
-"name": "Taza Mediterranean",
-"amount": 27.75,
-"date": "12/10/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Chicken and Falafel Bowl"
-},
-{
-
-"name": "ALDI",
-"amount": 13.59,
-"date": "12/11/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Sugar, Potatoes, Green Peppers, Coke, Cauliflower"
-},
-{
-
-"name": "Eden Prairie - Food & Fuel",
-"amount": 10.06,
-"date": "12/11/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "3.77 Gallons @ 2.97/gallon"
-},
-{
-
-"name": "Poornanand Foods",
-"amount": 10.59,
-"date": "12/11/2023",
-
-"payment_mode": "65ae663d23cef219f20db70f",
-"status": "Completed",
-"desc": "Pao Bhaaji Buns, Paao Bhaaji Masala, Goodday, etc."
-}
+  {
+    "name": "Asian Market",
+    "amount": 6.39,
+    "date": "11/25/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Asian Market - Papaya"
+  },
+  {
+    "name": "Poornand Foods",
+    "amount": 29.2,
+    "date": "11/25/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Indian Store - EP. Pani puri masala, pani puries, peas etc."
+  },
+  {
+    "name": "Park MSP",
+    "amount": 8,
+    "date": "11/21/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "MSP - Airport Parking"
+  },
+  {
+    "name": "Dosa Inc",
+    "amount": 40.98,
+    "date": "11/21/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Indian Restaurant - Lunch"
+  },
+  {
+    "name": "Costco Wholesale",
+    "amount": 44.7,
+    "date": "11/22/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Costco, EP - Gas Station"
+  },
+  {
+    "name": "Poornand Foods",
+    "amount": 22.75,
+    "date": "11/23/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Indian Store - EP : Khaari, Soup Packets, Tea Strainer, etc."
+  },
+  {
+    "name": "Walmart Supercenter",
+    "amount": 6.57,
+    "date": "11/22/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Banana, Cookies, Skim Milk"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "amount": 10.85,
+    "date": "11/21/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Bread, Milk, Mint, etc."
+  },
+  {
+    "name": "Best Of India",
+    "amount": 42.61,
+    "date": "11/24/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Chicken Tikka, Chicken Garlic"
+  },
+  {
+    "name": "Best Of India",
+    "amount": 35.47,
+    "date": "11/24/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "To-Go. Chicken Biryani, Chicken 65"
+  },
+  {
+    "name": "Texas Tonka Liquor",
+    "amount": 39.63,
+    "date": "11/24/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Vodka, Smokes, Mixer"
+  },
+  {
+    "name": "AirBnB",
+    "amount": 468.49,
+    "date": "11/24/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "AirBnB - KeyWest from 12/17 to 12/19"
+  },
+  {
+    "name": "Sun Country Airlines",
+    "amount": 333.6,
+    "date": "11/24/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Sun Country flight For Florida from 12/17 to 12/25"
+  },
+  {
+    "name": "AMC Movies",
+    "amount": 32.94,
+    "date": "11/25/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Tiger 3 - Online Movie Tickets"
+  },
+  {
+    "name": "Mochido",
+    "amount": 21.05,
+    "date": "11/25/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "6 Mochido Japanese Donuts + cheese key"
+  },
+  {
+    "name": "Leann Chin",
+    "amount": 26.11,
+    "date": "11/22/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Chicken Plate + Noodle Bowl + Pot Stickers Dinner"
+  },
+  {
+    "name": "Puma",
+    "amount": 19.98,
+    "date": "11/24/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Black Friday : 2 Ts"
+  },
+  {
+    "name": "Columbia",
+    "amount": 65.54,
+    "date": "11/24/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Black Friday : 6 Shorts"
+  },
+  {
+    "name": "Puma",
+    "amount": 39.98,
+    "date": "11/24/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Black Friday : Hoodie + Ts"
+  },
+  {
+    "name": "Under Armour",
+    "amount": 54,
+    "date": "11/24/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Black Friday : Beanie + Shoes"
+  },
+  {
+    "name": "Levi's",
+    "amount": 14.75,
+    "date": "11/24/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Black Friday : T-Shirt"
+  },
+  {
+    "name": "Gap Outlet",
+    "amount": 37.99,
+    "date": "11/24/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Black Friday : T-Shirts"
+  },
+  {
+    "name": "Dominos",
+    "amount": 8.13,
+    "date": "11/26/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Choco Lava Cake"
+  },
+  {
+    "name": "Walmart",
+    "amount": 79.18,
+    "date": "11/27/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Blender, printer cartridges, iron etc."
+  },
+  {
+    "name": "Poornanand Foods",
+    "amount": 16.49,
+    "date": "11/27/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Phulka, Naan, mutter paneer ingredients"
+  },
+  {
+    "name": "Amazon",
+    "amount": 65.1,
+    "date": "11/27/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Akaso Action Camera + memory stick"
+  },
+  {
+    "name": "Godavari - Indian Restaurant ",
+    "amount": 49.92,
+    "date": "11/29/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Chicken Lollypop, noodles etc."
+  },
+  {
+    "name": "AirBnB - Miami",
+    "amount": 690.25,
+    "date": "11/29/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "527 NW 40th St, Miami, FL 33127, USA"
+  },
+  {
+    "name": "Capital One Travel",
+    "amount": 178.88,
+    "date": "11/28/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Rental Car in Florida b/w 12/17 and 12/25"
+  },
+  {
+    "name": "Dominos",
+    "amount": 30.9,
+    "date": "11/30/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Large Pizza, Med. Veggie Sandwich, Habanero Wings"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "amount": 4.23,
+    "date": "11/30/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Whole Milk and Coke"
+  },
+  {
+    "name": "Eden Prairie Liquor",
+    "amount": 18.86,
+    "date": "12/01/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Smirnoff Green Apple - 750ml"
+  },
+  {
+    "name": "Godavari - Indian Restaurant",
+    "amount": 34.73,
+    "date": "12/01/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Chicken Manchurian and 777 - Pick Up"
+  },
+  {
+    "name": "India Market",
+    "amount": 14.64,
+    "date": "12/01/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Green Chillies and Bhungra*2"
+  },
+  {
+    "name": "Dosa Inc.",
+    "amount": 22,
+    "date": "12/02/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Masala Idly and Sambhar Vada"
+  },
+  {
+    "name": "Naf Naf Grill",
+    "amount": 26.12,
+    "date": "12/03/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "BYOB abd Chick. Shwarma Pita"
+  },
+  {
+    "name": "Naf Naf Grill",
+    "amount": 14.05,
+    "date": "12/03/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Falafel Bowl & Spicy Hummus"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "amount": 42.34,
+    "date": "12/03/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Asparagus, Fruits, Salad Kit, Hand Soap"
+  },
+  {
+    "name": "Poornanand Foods",
+    "amount": 41.43,
+    "date": "12/05/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Curry Leaves, Cilantro, Phulkas, Ghee, GGP, Dahi, etc."
+  },
+  {
+    "name": "India Market",
+    "amount": 18.08,
+    "date": "12/06/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Onions, ParleG, Dettol, ENO"
+  },
+  {
+    "name": "India Market - Dine In",
+    "amount": 17.34,
+    "date": "12/06/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Motichoor Ladoo, Samosa and Punugulu"
+  },
+  {
+    "name": "Eden Tobacco & Vape",
+    "amount": 32.55,
+    "date": "12/06/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "EJuice - Silver Back - BooBoo"
+  },
+  {
+    "name": "Taco Bell",
+    "amount": 24.35,
+    "date": "12/08/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Late Night - Nacho Fries, Chicken Chalupa, Spicy Potato Tacos"
+  },
+  {
+    "name": "Great Clips",
+    "amount": 55,
+    "date": "12/10/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Shraddha & Karan Hair Cuts"
+  },
+  {
+    "name": "Eden Prairie - Food & Fuel",
+    "amount": 5.99,
+    "date": "12/09/2023",
+    "payment_mode": "65ae6797bfd20ab9fb328c41",
+    "status": "Completed",
+    "desc": "Whole Milk"
+  },
+  {
+    "name": "Eden Prairie - Food & Fuel",
+    "amount": 10,
+    "date": "12/09/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "$10 Gas at $2.97/Gallon"
+  },
+  {
+    "name": "Noodles & Company",
+    "amount": 29.36,
+    "date": "12/09/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Chicken Parmesan, Japanese Pan Noodles, Garlic Cheesy Bread"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "amount": 104.61,
+    "date": "12/09/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Jogger, Polo T-shirts, etc for Karan "
+  },
+  {
+    "name": "Express Factory",
+    "amount": 49.94,
+    "date": "12/09/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Hawain Shirts for Karan "
+  },
+  {
+    "name": "AMC Movies",
+    "amount": 52.48,
+    "date": "12/09/2023",
+    "payment_mode": "65ae6797bfd20ab9fb328c41",
+    "status": "Completed",
+    "desc": "Swapnil, Karan & Shraddha - Animal - Online Tickets "
+  },
+  {
+    "name": "Dominos Pizza",
+    "amount": 28.17,
+    "date": "12/09/2023",
+    "payment_mode": "65ae6797bfd20ab9fb328c41",
+    "status": "Completed",
+    "desc": "LG Thin Pizz (Half n Half), 8-Piece Habanero Wings, Coke*2"
+  },
+  {
+    "name": "Valvoline Oil Change",
+    "amount": 27.5,
+    "date": "12/10/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Periodic Oil Change for Mazda"
+  },
+  {
+    "name": "Taza Mediterranean",
+    "amount": 27.75,
+    "date": "12/10/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Chicken and Falafel Bowl"
+  },
+  {
+    "name": "ALDI",
+    "amount": 13.59,
+    "date": "12/11/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Sugar, Potatoes, Green Peppers, Coke, Cauliflower"
+  },
+  {
+    "name": "Eden Prairie - Food & Fuel",
+    "amount": 10.06,
+    "date": "12/11/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "3.77 Gallons @ 2.97/gallon"
+  },
+  {
+    "name": "Poornanand Foods",
+    "amount": 10.59,
+    "date": "12/11/2023",
+    "payment_mode": "65ae663d23cef219f20db70f",
+    "status": "Completed",
+    "desc": "Pao Bhaaji Buns, Paao Bhaaji Masala, Goodday, etc."
+  }
 ]
