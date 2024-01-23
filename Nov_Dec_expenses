@@ -5,7 +5,9 @@
     "date": "11/25/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Asian Market - Papaya"
+    "desc": "Asian Market - Papaya",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Poornand Foods",
@@ -13,7 +15,9 @@
     "date": "11/25/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Indian Store - EP. Pani puri masala, pani puries, peas etc."
+    "desc": "Indian Store - EP. Pani puri masala, pani puries, peas etc.",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Park MSP",
@@ -21,7 +25,9 @@
     "date": "11/21/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "MSP - Airport Parking"
+    "desc": "MSP - Airport Parking",
+    "category" : "Automotive",
+    "state" : "MN"
   },
   {
     "name": "Dosa Inc",
@@ -29,7 +35,9 @@
     "date": "11/21/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Indian Restaurant - Lunch"
+    "desc": "Indian Restaurant - Lunch",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Costco Wholesale",
@@ -37,7 +45,9 @@
     "date": "11/22/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Costco, EP - Gas Station"
+    "desc": "Costco, EP - Gas Station",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Poornand Foods",
@@ -45,7 +55,9 @@
     "date": "11/23/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Indian Store - EP : Khaari, Soup Packets, Tea Strainer, etc."
+    "desc": "Indian Store - EP : Khaari, Soup Packets, Tea Strainer, etc.",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Walmart Supercenter",
@@ -53,7 +65,9 @@
     "date": "11/22/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Banana, Cookies, Skim Milk"
+    "desc": "Banana, Cookies, Skim Milk",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Walmart Supercenter",
@@ -61,7 +75,9 @@
     "date": "11/21/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Bread, Milk, Mint, etc."
+    "desc": "Bread, Milk, Mint, etc.",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Best Of India",
@@ -69,7 +85,9 @@
     "date": "11/24/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Chicken Tikka, Chicken Garlic"
+    "desc": "Chicken Tikka, Chicken Garlic",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Best Of India",
@@ -77,7 +95,9 @@
     "date": "11/24/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "To-Go. Chicken Biryani, Chicken 65"
+    "desc": "To-Go. Chicken Biryani, Chicken 65",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Texas Tonka Liquor",
@@ -85,7 +105,9 @@
     "date": "11/24/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Vodka, Smokes, Mixer"
+    "desc": "Vodka, Smokes, Mixer",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "AirBnB",
@@ -93,7 +115,9 @@
     "date": "11/24/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "AirBnB - KeyWest from 12/17 to 12/19"
+    "desc": "AirBnB - KeyWest from 12/17 to 12/19",
+    "category" : "Travel",
+    "state" : "MN"
   },
   {
     "name": "Sun Country Airlines",
@@ -101,7 +125,9 @@
     "date": "11/24/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Sun Country flight For Florida from 12/17 to 12/25"
+    "desc": "Sun Country flight For Florida from 12/17 to 12/25",
+    "category" : "Travel",
+    "state" : "MN"
   },
   {
     "name": "AMC Movies",
@@ -109,7 +135,9 @@
     "date": "11/25/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Tiger 3 - Online Movie Tickets"
+    "desc": "Tiger 3 - Online Movie Tickets",
+    "category" : "Entertainment",
+    "state" : "MN"
   },
   {
     "name": "Mochido",
@@ -117,7 +145,9 @@
     "date": "11/25/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "6 Mochido Japanese Donuts + cheese key"
+    "desc": "6 Mochido Japanese Donuts + cheese key",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Leann Chin",
@@ -125,7 +155,9 @@
     "date": "11/22/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Chicken Plate + Noodle Bowl + Pot Stickers Dinner"
+    "desc": "Chicken Plate + Noodle Bowl + Pot Stickers Dinner",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Puma",
@@ -133,7 +165,9 @@
     "date": "11/24/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Black Friday : 2 Ts"
+    "desc": "Black Friday : 2 Ts",
+    "category" : "Grooming",
+    "state" : "MN"
   },
   {
     "name": "Columbia",
@@ -141,7 +175,9 @@
     "date": "11/24/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Black Friday : 6 Shorts"
+    "desc": "Black Friday : 6 Shorts",
+    "category" : "Grooming",
+    "state" : "MN"
   },
   {
     "name": "Puma",
@@ -149,7 +185,9 @@
     "date": "11/24/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Black Friday : Hoodie + Ts"
+    "desc": "Black Friday : Hoodie + Ts",
+    "category" : "Grooming",
+    "state" : "MN"
   },
   {
     "name": "Under Armour",
@@ -157,7 +195,9 @@
     "date": "11/24/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Black Friday : Beanie + Shoes"
+    "desc": "Black Friday : Beanie + Shoes",
+    "category" : "Grooming",
+    "state" : "MN"
   },
   {
     "name": "Levi's",
@@ -165,7 +205,9 @@
     "date": "11/24/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Black Friday : T-Shirt"
+    "desc": "Black Friday : T-Shirt",
+    "category" : "Grooming",
+    "state" : "MN"
   },
   {
     "name": "Gap Outlet",
@@ -173,7 +215,9 @@
     "date": "11/24/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Black Friday : T-Shirts"
+    "desc": "Black Friday : T-Shirts",
+    "category" : "Grooming",
+    "state" : "MN"
   },
   {
     "name": "Dominos",
@@ -181,7 +225,9 @@
     "date": "11/26/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Choco Lava Cake"
+    "desc": "Choco Lava Cake",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Walmart",
@@ -189,7 +235,9 @@
     "date": "11/27/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Blender, printer cartridges, iron etc."
+    "desc": "Blender, printer cartridges, iron etc.",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Poornanand Foods",
@@ -197,7 +245,9 @@
     "date": "11/27/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Phulka, Naan, mutter paneer ingredients"
+    "desc": "Phulka, Naan, mutter paneer ingredients",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Amazon",
@@ -205,7 +255,9 @@
     "date": "11/27/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Akaso Action Camera + memory stick"
+    "desc": "Akaso Action Camera + memory stick",
+    "category" : "Online",
+    "state" : "MN"
   },
   {
     "name": "Godavari - Indian Restaurant ",
@@ -213,7 +265,9 @@
     "date": "11/29/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Chicken Lollypop, noodles etc."
+    "desc": "Chicken Lollypop, noodles etc.",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "AirBnB - Miami",
@@ -221,7 +275,9 @@
     "date": "11/29/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "527 NW 40th St, Miami, FL 33127, USA"
+    "desc": "527 NW 40th St, Miami, FL 33127, USA",
+    "category" : "Travel",
+    "state" : "MN"
   },
   {
     "name": "Capital One Travel",
@@ -229,7 +285,9 @@
     "date": "11/28/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Rental Car in Florida b/w 12/17 and 12/25"
+    "desc": "Rental Car in Florida b/w 12/17 and 12/25",
+    "category" : "Travel",
+    "state" : "MN"
   },
   {
     "name": "Dominos",
@@ -237,7 +295,9 @@
     "date": "11/30/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Large Pizza, Med. Veggie Sandwich, Habanero Wings"
+    "desc": "Large Pizza, Med. Veggie Sandwich, Habanero Wings",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Walmart Supercenter",
@@ -245,7 +305,9 @@
     "date": "11/30/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Whole Milk and Coke"
+    "desc": "Whole Milk and Coke",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Eden Prairie Liquor",
@@ -253,7 +315,9 @@
     "date": "12/01/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Smirnoff Green Apple - 750ml"
+    "desc": "Smirnoff Green Apple - 750ml",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Godavari - Indian Restaurant",
@@ -261,7 +325,9 @@
     "date": "12/01/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Chicken Manchurian and 777 - Pick Up"
+    "desc": "Chicken Manchurian and 777 - Pick Up",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "India Market",
@@ -269,7 +335,9 @@
     "date": "12/01/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Green Chillies and Bhungra*2"
+    "desc": "Green Chillies and Bhungra*2",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Dosa Inc.",
@@ -277,7 +345,9 @@
     "date": "12/02/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Masala Idly and Sambhar Vada"
+    "desc": "Masala Idly and Sambhar Vada",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Naf Naf Grill",
@@ -285,7 +355,9 @@
     "date": "12/03/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "BYOB abd Chick. Shwarma Pita"
+    "desc": "BYOB abd Chick. Shwarma Pita",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Naf Naf Grill",
@@ -293,7 +365,9 @@
     "date": "12/03/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Falafel Bowl & Spicy Hummus"
+    "desc": "Falafel Bowl & Spicy Hummus",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Walmart Supercenter",
@@ -301,7 +375,9 @@
     "date": "12/03/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Asparagus, Fruits, Salad Kit, Hand Soap"
+    "desc": "Asparagus, Fruits, Salad Kit, Hand Soap",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Poornanand Foods",
@@ -309,7 +385,9 @@
     "date": "12/05/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Curry Leaves, Cilantro, Phulkas, Ghee, GGP, Dahi, etc."
+    "desc": "Curry Leaves, Cilantro, Phulkas, Ghee, GGP, Dahi, etc.",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "India Market",
@@ -317,7 +395,9 @@
     "date": "12/06/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Onions, ParleG, Dettol, ENO"
+    "desc": "Onions, ParleG, Dettol, ENO",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "India Market - Dine In",
@@ -325,7 +405,9 @@
     "date": "12/06/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Motichoor Ladoo, Samosa and Punugulu"
+    "desc": "Motichoor Ladoo, Samosa and Punugulu",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Eden Tobacco & Vape",
@@ -333,7 +415,9 @@
     "date": "12/06/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "EJuice - Silver Back - BooBoo"
+    "desc": "EJuice - Silver Back - BooBoo",
+    "category" : "Other",
+    "state" : "MN"
   },
   {
     "name": "Taco Bell",
@@ -341,7 +425,9 @@
     "date": "12/08/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Late Night - Nacho Fries, Chicken Chalupa, Spicy Potato Tacos"
+    "desc": "Late Night - Nacho Fries, Chicken Chalupa, Spicy Potato Tacos",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Great Clips",
@@ -349,7 +435,9 @@
     "date": "12/10/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Shraddha & Karan Hair Cuts"
+    "desc": "Shraddha & Karan Hair Cuts",
+    "category" : "Grooming",
+    "state" : "MN"
   },
   {
     "name": "Eden Prairie - Food & Fuel",
@@ -357,7 +445,9 @@
     "date": "12/09/2023",
     "payment_mode": "65ae6797bfd20ab9fb328c41",
     "status": "Completed",
-    "desc": "Whole Milk"
+    "desc": "Whole Milk",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Eden Prairie - Food & Fuel",
@@ -365,7 +455,9 @@
     "date": "12/09/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "$10 Gas at $2.97/Gallon"
+    "desc": "$10 Gas at $2.97/Gallon",
+    "category" : "Automotive",
+    "state" : "MN"
   },
   {
     "name": "Noodles & Company",
@@ -373,7 +465,9 @@
     "date": "12/09/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Chicken Parmesan, Japanese Pan Noodles, Garlic Cheesy Bread"
+    "desc": "Chicken Parmesan, Japanese Pan Noodles, Garlic Cheesy Bread",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Tommy Hilfiger",
@@ -381,7 +475,9 @@
     "date": "12/09/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Jogger, Polo T-shirts, etc for Karan "
+    "desc": "Jogger, Polo T-shirts, etc for Karan ",
+    "category" : "Grooming",
+    "state" : "MN"
   },
   {
     "name": "Express Factory",
@@ -389,7 +485,9 @@
     "date": "12/09/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Hawain Shirts for Karan "
+    "desc": "Hawain Shirts for Karan",
+    "category" : "Grooming",
+    "state" : "MN"
   },
   {
     "name": "AMC Movies",
@@ -397,7 +495,9 @@
     "date": "12/09/2023",
     "payment_mode": "65ae6797bfd20ab9fb328c41",
     "status": "Completed",
-    "desc": "Swapnil, Karan & Shraddha - Animal - Online Tickets "
+    "desc": "Swapnil, Karan & Shraddha - Animal - Online Tickets",
+    "category" : "Entertainment",
+    "state" : "MN"
   },
   {
     "name": "Dominos Pizza",
@@ -405,7 +505,9 @@
     "date": "12/09/2023",
     "payment_mode": "65ae6797bfd20ab9fb328c41",
     "status": "Completed",
-    "desc": "LG Thin Pizz (Half n Half), 8-Piece Habanero Wings, Coke*2"
+    "desc": "LG Thin Pizz (Half n Half), 8-Piece Habanero Wings, Coke*2",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "Valvoline Oil Change",
@@ -413,7 +515,9 @@
     "date": "12/10/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Periodic Oil Change for Mazda"
+    "desc": "Periodic Oil Change for Mazda",
+    "category" : "Automotive",
+    "state" : "MN"
   },
   {
     "name": "Taza Mediterranean",
@@ -421,7 +525,9 @@
     "date": "12/10/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Chicken and Falafel Bowl"
+    "desc": "Chicken and Falafel Bowl",
+    "category" : "Dining",
+    "state" : "MN"
   },
   {
     "name": "ALDI",
@@ -429,7 +535,9 @@
     "date": "12/11/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Sugar, Potatoes, Green Peppers, Coke, Cauliflower"
+    "desc": "Sugar, Potatoes, Green Peppers, Coke, Cauliflower",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Eden Prairie - Food & Fuel",
@@ -437,7 +545,9 @@
     "date": "12/11/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "3.77 Gallons @ 2.97/gallon"
+    "desc": "3.77 Gallons @ 2.97/gallon",
+    "category" : "Grocery",
+    "state" : "MN"
   },
   {
     "name": "Poornanand Foods",
@@ -445,6 +555,8 @@
     "date": "12/11/2023",
     "payment_mode": "65ae663d23cef219f20db70f",
     "status": "Completed",
-    "desc": "Pao Bhaaji Buns, Paao Bhaaji Masala, Goodday, etc."
+    "desc": "Pao Bhaaji Buns, Paao Bhaaji Masala, Goodday, etc.",
+    "category" : "Grocery",
+    "state" : "MN"
   }
 ]
